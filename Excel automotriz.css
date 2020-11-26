@@ -1,0 +1,35 @@
+#encabezado{
+    background-color: rgb(109, 109, 223);
+    padding-top: 0.05cm;
+  }
+  #titulo{
+    font-family: 'Secular One', sans-serif;
+    text-align: center;
+    font-size: 100px;
+  }
+  #navegador{
+    background-color: aqua;
+  }
+  #navegador ul{
+    list-style-type: none;
+    text-align: center;
+  }
+  #navegador li{
+  
+    display: inline;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+  }
+ #logo{
+    margin-left: 13.5cm;
+    height: 200px;
+    width: 400px;
+  }
+  #contenido li{
+    list-style-type: none
+  }
+  #pie{
+    padding-top: 7cm;
+  
+  }
